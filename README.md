@@ -29,12 +29,14 @@ I live in Brazil and have been working with Web Development for 3+ years by now.
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-[![Phablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhabloFinotti&count_private=true&show_icons=true&theme=radical)](https://github.com/PhabloFinotti)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhabloFinotti&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/PhabloFinotti)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhabloFinotti&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Phablo Finotti's GitHub Status">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhabloFinotti&count_private=true&show_icons=true&theme=radical" alt="Top Languages used by Phablo">
+</p>
 
 <p align="center">
   <a align="center" href="https://github.com/PhabloFinotti/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhabloFinotti&count_private=true&show_icons=true&theme=radical&layout=compact" alt="Top Languages used by Phablo">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=PhabloFinotti&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Phablo Finotti's GitHub Streak">
   </a>
 </p>
   

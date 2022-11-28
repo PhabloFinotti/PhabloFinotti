@@ -63,3 +63,5 @@ I live in Brazil and have been working with Web Development for 3+ years by now.
 <p align="center">
   <img align="center" width="400" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
 </p>
+
+![Snake animation](https://github.com/phablofinotti/phablofinotti/blob/output/github-contribution-grid-snake.svg)
